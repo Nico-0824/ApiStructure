@@ -1,0 +1,31 @@
+hero:
+  name: 安琪拉
+  job: 法师
+  hp: 455.5
+
+hero_1: { name: 黄忠, job: 射手, hp: 455 }
+
+hero_list_dict:
+  - name: 夏侯惇
+    job: 战士
+    hp: 800
+
+hero_list:
+  - 李元芳
+  - 黄忠
+  - 后羿
+
+hero_list_list:
+  - - 奥特曼
+    - 龙骑士
+    - 天隆
+
+hero_words:
+  - - 奥特曼
+    - 打怪兽
+  - - 果戈里
+    - 喝稀饭
+
+mobile_belong: { phone: 1311111111, key: 49d85ac0c73670c9318bde49f3df493c }
+
+json_data : { ip: 192.168.1.10, key: cec2721d9160c9124ceb3c656decb4c9 }
