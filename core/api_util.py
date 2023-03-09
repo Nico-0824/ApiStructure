@@ -10,7 +10,7 @@ class Api(RestClient):
         return self.get('/mobile/get', **kwargs)
 
     def post_ip_belong(self, **kwargs):
-        return self.post('/ip/ipNewV3', **kwargs)
+        return self.post('/ip/ipNewV3', **kwargs) 
 
 
 api_util = Api()
