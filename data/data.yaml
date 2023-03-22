@@ -28,4 +28,9 @@ hero_words:
 
 mobile_belong: { phone: 1311111111, key: 49d85ac0c73670c9318bde49f3df493c }
 
+mobile_belong_dynamic:
+  params: { phone: 1311111111, key: 49d85ac0c73670c9318bde49f3df493c }
+  title: 这是通过yaml文件动态传入的title
+  story: 这是通过yaml文件动态传入的story
+
 json_data : { ip: 192.168.1.10, key: cec2721d9160c9124ceb3c656decb4c9 }
